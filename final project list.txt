@@ -1,0 +1,6 @@
+tombol di atas
+p1 robotics      https://en.wikipedia.org/wiki/Robot
+p2 red pandas	 https://en.wikipedia.org/wiki/Red_panda
+p3 mantids 		 https://en.wikipedia.org/wiki/Mantis
+p4 blaack hole?	 https://en.wikipedia.org/wiki/Black_hole
+p5 spider crab	 https://en.wikipedia.org/wiki/Japanese_spider_crab
